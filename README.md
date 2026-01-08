@@ -61,12 +61,13 @@ Currently working with React and TypeScript while continuously improving my desi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suttirak6630202783&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Suttirak6630202783&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Suttirak6630202783&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suttirak6630202783&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
+
 
 <br/>
 
